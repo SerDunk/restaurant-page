@@ -1,0 +1,26 @@
+
+
+
+
+
+
+#content{
+    text-align: center;
+    display: flex;
+    flex-flow: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.hero{
+    font-size: 5rem; 
+    color: goldenrod;
+    padding: 5px;
+    font-family:'Indian';
+}
+
+.subText{
+    font-size: 3rem;
+    font-family: 'Second-Indian';
+    color: white;
+}
