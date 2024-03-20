@@ -1,7 +1,7 @@
 import initialPage from "./initial-page/initial-page";
 import menuLoad from "./menu/menu";
 import about from "./about/about";
-import './style.css';
+import './style.css'
 
 
 const homeBtn=document.querySelector('.home')
